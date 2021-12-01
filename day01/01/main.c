@@ -6,7 +6,7 @@
 #define BUFFER_SIZE 2048
 
 int main(void) {
-    FILE* fp = fopen("input.txt", "r");
+    FILE* fp = fopen("../input.txt", "r");
     if (!fp) {
         fprintf(stderr, "Could not open input file\n");
         exit(1);
