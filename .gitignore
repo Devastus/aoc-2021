@@ -1,2 +1,4 @@
+build/
 *.out
 .ccls-cache
+input.txt
