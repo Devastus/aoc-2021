@@ -3,3 +3,4 @@ My [Advent of Code 2021](https://adventofcode.com/2021) - entries. Inputs need t
 
 - Day 01 | C
 - Day 02 | Kotlin
+- Day 03 | Go
