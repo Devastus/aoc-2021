@@ -6,4 +6,5 @@ My [Advent of Code 2021](https://adventofcode.com/2021) - entries. Inputs need t
 - Day 03 | Go
 - Day 04 | Nim
 - Day 05 | Nim
+- Day 06 | Nim
 
