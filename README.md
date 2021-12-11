@@ -11,3 +11,4 @@ My [Advent of Code 2021](https://adventofcode.com/2021) - entries. Inputs need t
 - Day 08 | C
 - Day 09 | Javascript (Node.js)
 - Day 10 | Kotlin
+- Day 11 | Nim
