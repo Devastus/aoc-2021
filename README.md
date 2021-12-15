@@ -15,3 +15,4 @@ My [Advent of Code 2021](https://adventofcode.com/2021) - entries. Inputs need t
 - Day 12 | Nim
 - Day 13 | Nim
 - Day 14 | Zig
+- Day 15 | Zig
